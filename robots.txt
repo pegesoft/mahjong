@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pegesoft.github.io/mahjong/sitemap.xml
